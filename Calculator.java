@@ -1,7 +1,7 @@
 /*******************************************************************************
 CREATOR : JITHIN JEROME
 TITLE - GUI CALCULATOR.
-DATE - JANUARY , 2022
+DATE - FABRUARY , 2022
 *******************************************************************************/
 package lab21;
 import java.awt.Color;
