@@ -205,6 +205,13 @@ public class Calculator implements ActionListener
 			case 3: result = a*b;
 			  break;
 			case 4: result = a/b;
+			  try {
+				  if (b==0)
+				  {}
+			  }catch(Exception e1) 
+			  {
+				  System.out.println("Infinity");
+			  }
 			  break;
 			case 5: result = a%b;
 			  break;
