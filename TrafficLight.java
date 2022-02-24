@@ -1,7 +1,7 @@
 /*******************************************************************************
 CREATOR : JITHIN JEROME
 TITLE - GUI TRAFFIC LIGHT.
-DATE - JANUARY , 2022
+DATE - FEBRUARY , 2022
 *******************************************************************************/
 package lab21;
 import java.awt.*;
